@@ -1,1 +1,5 @@
+# Duh
 *.swp
+
+# Remove final product
+*.gb
